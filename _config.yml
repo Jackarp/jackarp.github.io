@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Golf 의 모든것" 
+title                    : "All about Jack" 
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jack 형"
