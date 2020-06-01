@@ -15,7 +15,3 @@ last_modified_at: 2020-06-01T15:28
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/orientation.jpg   ){: .align-center}
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/orientation1.jpg   ){: .align-center}
-
-
-
