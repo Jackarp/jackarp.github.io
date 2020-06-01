@@ -3,9 +3,9 @@ title:  "If 가정법 part4"
 excerpt: "If 조건절"
 
 categories:
-  - Conversational English
+  - Live Academy
 tags:
-  - English
+  - Conversational English
 last_modified_at: 2020-05-25T09:46
 ---
 

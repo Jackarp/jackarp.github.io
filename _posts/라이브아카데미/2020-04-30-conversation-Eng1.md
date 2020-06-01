@@ -3,9 +3,9 @@ title:  "상관없어"
 excerpt: "를 영어로 한다면"
 
 categories:
-  - Conversational English
+  - Live Academy
 tags:
-  - English
+  - Conversational English
 last_modified_at: 2020-04-30T10:44
 ---
 

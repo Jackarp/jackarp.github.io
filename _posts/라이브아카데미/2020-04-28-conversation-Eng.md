@@ -3,9 +3,9 @@ title:  "이거 원래 이래"
 excerpt: "를 영어로 한다면"
 
 categories:
-  - Conversational English
+  - Live Academy
 tags:
-  - English
+  - Conversational English
 last_modified_at: 2020-04-28T09:10
 ---
 

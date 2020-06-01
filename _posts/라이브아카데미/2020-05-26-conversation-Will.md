@@ -3,9 +3,9 @@ title:  "will vs be going to"
 excerpt: "는 다르다"
 
 categories:
-  - Conversational English
+  - Live Academy
 tags:
-  - English
+  - Conversational English
 last_modified_at: 2020-05-26T09:25
 ---
 
