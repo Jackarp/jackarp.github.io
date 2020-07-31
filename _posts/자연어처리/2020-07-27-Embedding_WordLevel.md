@@ -1,5 +1,5 @@
 ---
-title:  "단어수준 임베딩"
+title:  "단어수준 임베딩(Word2Vec)"
 excerpt: "단어수준 임베딩 모델"
 header:
   teaser: /assets/images/nlp/Word2Vec.png
