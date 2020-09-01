@@ -12,3 +12,6 @@ last_modified_at: 2020-09-01T15:30
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/stock/HowToChoose_Retirement_Pension_Fund.jpg   ){: .align-center} 
+
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/stock/analysis_fundname.jpg   ){: .align-center} 
