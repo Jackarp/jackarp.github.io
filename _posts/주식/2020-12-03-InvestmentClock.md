@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/stock/KOSIS_Investment_Clock.jpg
 
 categories:
-  - Investment Clock
+  - Stock
 tags:
   - 채권
   - 경기순환시계
