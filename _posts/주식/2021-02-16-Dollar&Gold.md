@@ -2,7 +2,7 @@
 title:  "[부의대이동] 달러&금"
 excerpt: "달러와 금"
 header:
-  teaser: /assets/images/stock/dollar gold 1.jpg
+  teaser: /assets/images/stock/dollar, gold 1.jpg
 
 categories:
   - Stock
