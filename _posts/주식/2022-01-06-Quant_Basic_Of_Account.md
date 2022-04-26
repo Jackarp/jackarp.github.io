@@ -8,7 +8,7 @@ categories:
   - Stock
 tags:
   - 퀀트
-  - 퀀트3
+  - 퀀트2
 last_modified_at: 2022-04-26T16:30
 ---
 
